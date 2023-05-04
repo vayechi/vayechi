@@ -1,7 +1,4 @@
 ### Hi there 👋
-<a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9" align="center">
-    <img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Chungheon%20Lee&fontSize=85"/>
-</a>
 
 ## 🛠 Tech Stack
 <div>
@@ -50,4 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![vayechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vayechi)](https://github.com/vayechi/github-readme-stats)
+
