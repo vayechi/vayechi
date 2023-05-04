@@ -3,7 +3,6 @@
 ## 🛠 Tech Stack
 <div>
 	<img alt="python" src ="https://img.shields.io/badge/Python-white.svg?&style=flat&logo=Python&logoColor=61DAFB"/>
-	<br/>
 	<img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=black"/>
 </div>
 
@@ -23,9 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vayechi&layout=compact&hide=MATLAB&exclude_repo=vayechi.github.io)
 
-<div>
- <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
-</div>
 
 <br>
 
