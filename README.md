@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🛠 Tech Stack
+JavaScript TypeScript react styledcomponents SWR Mobx Storybook Jest
+linux docker
+
+I'm currently learning...
+Next.js TurboRepo
+
+Github Stats 
+Anurag's GitHub stats
+
+Top Langs
+
